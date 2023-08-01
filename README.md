@@ -2,7 +2,7 @@
 Utility library for shell scripts
 
 	!IMPORTANT:
- 	This project has been reblanded as U.SH (https://github.com/amekusa/u.sh.git)
+ 	This project has been rebranded as U.SH (https://github.com/amekusa/u.sh.git)
 
 ## INSTALLATION
 Install as a git submodule:
